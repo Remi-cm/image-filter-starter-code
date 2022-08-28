@@ -1,5 +1,5 @@
 # EBS ENDPOINT DEPLOYMENT
-Url: https://us-east-1.console.aws.amazon.com/elasticbeanstalk/home?region=us-east-1#/environment/dashboard?applicationName=image-filter-starter-code&environmentId=e-eqnpk6yhmg
+Url with test public image: http://udagramfilter-by-remi.us-east-1.elasticbeanstalk.com/filteredImage?image_url=https://www.imgacademy.com/sites/default/files/2022-07/img-homepage-meta.jpg
 The dashboard screenshot is in "deployment_screenshots" folder
 
 # Udagram Image Filtering Microservice
